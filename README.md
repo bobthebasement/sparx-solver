@@ -7,6 +7,8 @@ There is one basic python file to download however Ollama is needed
 For Windows: Go to https://ollama.com/download/windows <br>
 For Linux: Install via command line `curl -fsSL https://ollama.com/install.sh | sh` <br>
 For Windows: Go to https://ollama.com/download/mac <br>
+<br>
+Then in command line: `ollama run codellama`
 
 
 
